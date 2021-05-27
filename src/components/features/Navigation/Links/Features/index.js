@@ -17,7 +17,7 @@ const FeaturesLink = () => {
         <NavLink
             to={FEATURES.link}
             className="xl:mr-6 sm:mr-8 md:mr-8 mr-4"
-            activeClassName="cursor-pointer text-orange-400"
+            activeClassName="cursor-pointer text-blue-400"
             onMouseOver={displayMenu}
         >
             {FEATURES.name}

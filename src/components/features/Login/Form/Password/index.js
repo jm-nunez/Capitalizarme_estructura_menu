@@ -15,7 +15,7 @@ const Password = () => {
 
     return < div className="mt-3 flex flex-col" >
         <div className="flex items-baseline">
-            <Label value="password" />
+            <Label value="Contraseña" />
             <ForgotPasswordLink />
         </div>
         <PasswordField {...password} />
@@ -24,7 +24,7 @@ const Password = () => {
 
 const ForgotPasswordLink = () => (
     <Link to="/forgot-password" className="ml-auto text-xs font-helvetica font-medium text-brand">
-        Forgot password?
+        Recuperar contraseña
     </Link>
 )
 

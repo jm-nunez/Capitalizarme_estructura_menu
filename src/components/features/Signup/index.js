@@ -6,7 +6,7 @@ const SignUpButton = () => (
     <Link to="/signup" className="mr-5">
         <BrandButtonDefault
             type="button"
-            value="Sign up"
+            value="Registrate"
         />
     </Link>)
 

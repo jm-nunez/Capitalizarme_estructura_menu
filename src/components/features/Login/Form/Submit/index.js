@@ -8,7 +8,7 @@ const LoginButton = () => {
 
     return <SignInButton
         type="submit"
-        value="Sign in"
+        value="Enviar"
         event={login}
         classes="xs:py-3 sm:py-3 md:py-3 xl:py-3 lg:py-3 mt-8" />
 }
