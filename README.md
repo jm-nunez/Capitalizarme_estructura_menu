@@ -4,6 +4,8 @@
 </p> 
 <h5 align="center">Invierte en Propiedades</h5>
 
+<img src="https://www.capitalizarme.com/assets/captura.png"/>
+
 
 
 ## Features
