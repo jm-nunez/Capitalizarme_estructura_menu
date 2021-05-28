@@ -1,32 +1,32 @@
 export const items = [
     {
-        categoryName: "CODE",
+        categoryName: "Tipo de propiedades",
         links: [{
-            name: "Code Review",
+            name: "Codigo de Zona",
             route: "code-review"
         },
         {
-            name: "Project management",
+            name: "Gestión de proyectos",
             route: "project-management"
         }, {
-            name: "Integration",
+            name: "Lote",
             route: "integration"
         }, {
-            name: "Hosting",
+            name: "verde o blanco",
             route: "hosting"
         }]
     },
     {
         categoryName: "TEAM",
         links: [{
-            name: "Discussion",
+            name: "Blog",
             route: "discussion"
         },
         {
-            name: "Q&A",
+            name: "Pregunta frecuente",
             route: "question-answer"
         }, {
-            name: "Team management",
+            name: "Se Parte del Team",
             route: "team-management"
         },]
     }
