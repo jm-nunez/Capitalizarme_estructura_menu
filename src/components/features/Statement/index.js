@@ -14,15 +14,16 @@ const UniqueValueStatement = () => (
     </p>
 )
 const GetStartedButton = () => (
-    <Link to="/signup" tabIndex="-1">
-        <BrandButtonDefault
-            type="button"
-            value="Create First App"
-            classes="xs:py-3 xs:px-4 xs:text-sm
-                     sm:py-3 sm:px-4 sm:text-sm
-                     w-auto px-8 py-4 mt-8 "
-        />
+    
+    <Link to="/login" tabIndex="-1">
+          <div class="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
+            <div class="rounded-md shadow"></div>
+              <a href="#" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 md:py-4 md:text-lg md:px-10">
+                INGRESA
+              </a>
+            </div>
     </Link>)
+
 
 export default UniqueValueStatement
 export {GetStartedButton}
