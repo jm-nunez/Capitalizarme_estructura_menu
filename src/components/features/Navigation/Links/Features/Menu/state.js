@@ -12,7 +12,7 @@ export const items = [
             name: "Lote",
             route: "integration"
         }, {
-            name: "verde o blanco",
+            name: "Verde o blanco",
             route: "hosting"
         }]
     },
