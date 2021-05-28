@@ -4,6 +4,8 @@
 </p> 
 <h5 align="center">Invierte en Propiedades</h5>
 
+<img src="https://lacrea.cl/wp-content/uploads/2021/05/Captura-e1622163129233.png"/>
+
 
 
 ## Features
