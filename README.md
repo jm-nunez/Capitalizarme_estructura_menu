@@ -14,7 +14,7 @@
 - [x] Responsive.
 - [x] Respected accessibility and usability.
 
-## Scripts
+## Scripts `npm install`
 
 In the project directory, you can run:
 
