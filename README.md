@@ -10,11 +10,11 @@
 
 ## Features
 
-- [x] Well-structured directories and modules.
-- [x] Modular and readable code.
-- [x] Modern user interface.
+- [x] Directorios y módulos bien estructurados.
+- [x] Código modular y legible.
+- [x] Interfaz de usuario moderna.
 - [x] Responsive.
-- [x] Respected accessibility and usability.
+- [x] Accesibilidad y usabilidad respetadas.
 
 ## Scripts `npm install`
 
