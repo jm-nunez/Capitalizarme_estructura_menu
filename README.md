@@ -18,17 +18,19 @@
 
 ## Scripts `npm install`
 
-In the project directory, you can run:
+En el directorio del proyecto, puede ejecutar:
 
 #### `npm start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+Ejecuta la aplicación en modo de desarrollo. <br />
+Abra [http://localhost:3000](http://localhost:3000) para verlo en el navegador.
+
 
 #### `npm run build`
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Construye la aplicación para producción en la carpeta `build`. <br />
+Agrupa correctamente React en el modo de producción y optimiza la compilación para obtener el mejor rendimiento.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+La compilación se minimiza y los nombres de archivo incluyen los hash. <br />
+¡Tu aplicación está lista para implementarse!
