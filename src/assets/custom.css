@@ -1,3 +1,60 @@
+/*
+@font-face {
+    font-family: 'space_groteskbold';
+    src: url("../fonts/woff2/static/SpaceGrotesk-bold.woff2") format('woff2|');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "space_grotesklight";
+    src: url("../fonts/woff2/static/SpaceGrotesk-Light.woff2") format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "space_groteskmedium";
+    src: url("../fonts/woff2/static/SpaceGrotesk-Medium.woff2") format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "space_groteskregular";
+    src: url("../fonts/woff2/static/SpaceGrotesk-Regular.woff2") format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+*/
+
+/*aqui aplico la fuente al body y yso las demás para otros fines*/
+body {
+    background-color:rgb(152,209,201);
+    font-family: Space Grotesk ,sans-serif ;
+}
+
 button:focus {
     outline: none;
+}
+.amarillo_P{
+    color: #FFB500;
+}
+.celeste_P{
+    color: #0069CB;
+}
+.azul_P{
+    color: #003891;
+}
+.verde_P{
+    color: #006726;
+}
+.rojo_P{
+    color: #FF0041;
+}
+.negro_P{
+    color: #000000;
+}
+.gris_P{
+    color: #575757;
+}
+.blanco_P{
+    color: #575757;
 }

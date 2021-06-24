@@ -8,7 +8,7 @@
  * 2. Prevent adjustments of font size after orientation changes in iOS.
  */
 
- html {
+html {
   line-height: 1.15; /* 1 */
   -webkit-text-size-adjust: 100%; /* 2 */
 }
@@ -22,6 +22,7 @@
 
 body {
   margin: 0;
+  background-color: #E5E5E5;
 }
 
 /**
@@ -75,6 +76,7 @@ pre {
 
 a {
   background-color: transparent;
+  
 }
 
 /**
@@ -1863,12 +1865,15 @@ video {
 }
 
 .bg-brand {
-  background-color: #3f51b5;
-  
+  --bg-opacity: 1;
+  background-color: #ffffff;
+  background-color: rgba(255, 255, 255, var(--bg-opacity));
 }
 
 .bg-brand-dark {
-  background-color: #3f51b5;
+  --bg-opacity: 1;
+  background-color: #ffffff;
+  background-color: rgba(255, 255, 255, var(--bg-opacity));
 }
 
 .bg-transparent {
@@ -16899,14 +16904,14 @@ video {
 
 .text-brand {
   --text-opacity: 1;
-  color: #1779fa;
-  color: rgba(23, 121, 250, var(--text-opacity));
+  color: #8F17FA;
+  color: rgba(143, 23, 250, var(--text-opacity));
 }
 
 .text-brand-dark {
   --text-opacity: 1;
-  color: #1055af;
-  color: rgba(16, 85, 175, var(--text-opacity));
+  color: #2F0739;
+  color: rgba(47, 7, 57, var(--text-opacity));
 }
 
 .text-transparent {
@@ -16918,13 +16923,11 @@ video {
 }
 
 .text-black {
-  --text-opacity: 1;
   color: #000;
   color: rgba(0, 0, 0, var(--text-opacity));
 }
 
 .text-white {
-  --text-opacity: 1;
   color: #fff;
   color: rgba(255, 255, 255, var(--text-opacity));
 }
