@@ -27,7 +27,7 @@
 
 /*aqui aplico la fuente al body y yso las demás para otros fines*/
 body {
-    background-color:rgb(152,209,201);
+    background-color:#E5E5E5;
     font-family: Space Grotesk ,sans-serif ;
 }
 
@@ -57,4 +57,15 @@ button:focus {
 }
 .blanco_P{
     color: #575757;
+}
+
+
+/* botones */
+.boton_capit{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    position: absolute;
+    left: 0px;
+    top: 0px;
 }
