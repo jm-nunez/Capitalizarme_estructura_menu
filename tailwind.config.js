@@ -28,7 +28,7 @@ module.exports = {
 
     },
     colors: {
-      brand: '#FFFFFFF',
+      brand: '#FFFFFF',
       "brand-dark": '#F5F5F5',
       transparent: 'transparent',
       current: 'currentColor',
@@ -75,7 +75,7 @@ module.exports = {
         200: '#fefcbf',
         300: '#faf089',
         400: '#f6e05e',
-        500: '#ecc94b',
+        500: '#FFB500',
         600: '#d69e2e',
         700: '#b7791f',
         800: '#975a16',
@@ -268,10 +268,11 @@ module.exports = {
         '"Segoe UI Emoji"',
         '"Segoe UI Symbol"',
         '"Noto Color Emoji"',
+        '"Space Grotesk"',
       ],
       serif: ['Georgia', 'Cambria', '"Times New Roman"', 'Times', 'serif'],
       mono: ['Menlo', 'Monaco', 'Consolas', '"Liberation Mono"', '"Courier New"', 'monospace'],
-      helvetica: '"Helvetica"',
+      SpaceGrotesk: '"Space Grotesk"',
     },
     fontSize: {
       "xs-10": "0.625rem",
