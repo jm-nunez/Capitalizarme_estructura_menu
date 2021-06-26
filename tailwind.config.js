@@ -25,6 +25,7 @@ module.exports = {
       'xl': {
         'min': '1280px'
       },
+      
 
     },
     colors: {

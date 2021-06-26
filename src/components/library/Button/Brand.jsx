@@ -2,7 +2,7 @@ import React from "react"
 import PropTypes from "prop-types"
 import withStyledButton from "./withStyledButton"
 
-const commonClasses = ["bg-brand outline-none font-SpaceGrotesk bg-yellow-500 hover:bg-yellow-700 text-blue font-bold py-2 px-4 rounded"]
+const commonClasses = ["bg-brand outline-none font-SpaceGrotesk bg-yellow-500 hover:bg-yellow-700 text-black font-bold py-2 px-4 rounded"]
 
 const BrandButtonDefault = (props) => {
     let defaultClasses = ["w-26 py-2 text-base rounded-base mr-5"]
