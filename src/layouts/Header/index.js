@@ -2,6 +2,7 @@ import React, { Fragment } from "react"
 import Logo from "../../components/features/Logo"
 //import SignUpButton from "../../components/features/Signup"
 //import SearchField from "../../components/features/Search"
+import Hamburgesa from "../../components/features/Hamburgesa"
 import Navigation from "../../components/features/Navigation"
 import { LoginLink } from "../../components/features/Login"
 
@@ -21,15 +22,7 @@ const Header = () => (
                 <LoginLink />
             </div>
             <div className="hamburgesa">
-           
-          <button
-            class="md:hidden lg:hidden xl:hidden ml-6  rounded-lg focus:outline-none focus:shadow-outline">
-            <span class="text-lg text-primary"
-              ><svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M0 0H18V2H0V0ZM0 7H18V9H0V7ZM0 14H18V16H0V14Z" fill="black"/>
-              </svg>
-              </span>
-          </button>
+                <Hamburgesa/>
            </div>
             </div>
         </header>
