@@ -2250,8 +2250,8 @@ video {
 
 .bg-blue-500 {
   --bg-opacity: 1;
-  background-color: #4299e1;
-  background-color: rgba(66, 153, 225, var(--bg-opacity));
+background-color: #0069CB;
+    background-color: rgba(0, 105, 203, var(--bg-opacity));
 }
 
 .bg-blue-600 {
@@ -17288,8 +17288,8 @@ video {
 
 .text-blue-500 {
   --text-opacity: 1;
-  color: #4299e1;
-  color: rgba(66, 153, 225, var(--text-opacity));
+  color: #0069CB;
+  color: rgba(0, 105, 203, var(--text-opacity));
 }
 
 .text-blue-600 {
@@ -23724,8 +23724,8 @@ video {
 
   .xs\:bg-blue-500 {
     --bg-opacity: 1;
-    background-color: #4299e1;
-    background-color: rgba(66, 153, 225, var(--bg-opacity));
+    background-color: #0069CB;
+    background-color: rgba(0, 105, 203, var(--bg-opacity));
   }
 
   .xs\:bg-blue-600 {
@@ -87837,8 +87837,8 @@ video {
 
   .lg\:bg-blue-500 {
     --bg-opacity: 1;
-    background-color: #4299e1;
-    background-color: rgba(66, 153, 225, var(--bg-opacity));
+    background-color: #0069CB;
+    background-color: rgba(0, 105, 203, var(--bg-opacity));
   }
 
   .lg\:bg-blue-600 {
@@ -88415,8 +88415,8 @@ video {
 
   .lg\:hover\:bg-blue-500:hover {
     --bg-opacity: 1;
-    background-color: #4299e1;
-    background-color: rgba(66, 153, 225, var(--bg-opacity));
+    background-color: #0069CB;
+    background-color: rgba(0, 105, 203,  var(--bg-opacity));
   }
 
   .lg\:hover\:bg-blue-600:hover {
@@ -88993,8 +88993,8 @@ video {
 
   .lg\:focus\:bg-blue-500:focus {
     --bg-opacity: 1;
-    background-color: #4299e1;
-    background-color: rgba(66, 153, 225, var(--bg-opacity));
+    background-color: #0069CB;
+    background-color: rgba(0, 105, 203, var(--bg-opacity));
   }
 
   .lg\:focus\:bg-blue-600:focus {
@@ -109208,8 +109208,8 @@ video {
 
   .xl\:bg-blue-500 {
     --bg-opacity: 1;
-    background-color: #4299e1;
-    background-color: rgba(66, 153, 225, var(--bg-opacity));
+    background-color: #0069CB;
+    background-color: rgba(0, 105, 203, var(--bg-opacity));
   }
 
   .xl\:bg-blue-600 {
@@ -109786,8 +109786,8 @@ video {
 
   .xl\:hover\:bg-blue-500:hover {
     --bg-opacity: 1;
-    background-color: #4299e1;
-    background-color: rgba(66, 153, 225, var(--bg-opacity));
+    background-color: #0069CB;
+    background-color: rgba(0, 105, 203, var(--bg-opacity));
   }
 
   .xl\:hover\:bg-blue-600:hover {
@@ -110364,8 +110364,8 @@ video {
 
   .xl\:focus\:bg-blue-500:focus {
     --bg-opacity: 1;
-    background-color: #4299e1;
-    background-color: rgba(66, 153, 225, var(--bg-opacity));
+    background-color: #0069CB;
+    background-color: rgba(0, 105, 203, var(--bg-opacity));
   }
 
   .xl\:focus\:bg-blue-600:focus {

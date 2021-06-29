@@ -1,7 +1,7 @@
 import React from "react"
 
 const Submenu = () => (
-<div class="flex justify-center bg-white py-2 px-2">
+<div className="flex justify-center bg-white py-2 px-2">
     <ul className="flex items-center ">
     <li className="flex-1 mr-2">
     <a className="flex-1  items-center py-2 px-4 bg-transparent  text-blue-500 inline-flex" href="#"><svg class="h-6 w-6 fill-current mr-3" width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">

@@ -40,8 +40,15 @@
   }
 /*aqui aplico la fuente al body y yso las demás para otros fines*/
 body {
-    background-color:#E5E5E5;
+    background-color:#FFFFFF;
     font-family: 'Space Grotesk', sans-serif;
+}
+.gray_menu{
+  background-color: #F5F5F5;
+}
+.vertical-line{
+  border-bottom:solid 1px grey;
+  width:100%;
 }
 
 button:focus {
