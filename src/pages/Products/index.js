@@ -7,8 +7,7 @@ const Products = () => (
             <Fragment> 
             <Submenu/>
             <div class="container px-8 bg-white mx-8">
-            <p class="text-3xl text-gray-900">Resultados para ti:</p>
-            <p class="text-gray-700">745 Proyectos </p>
+            <p class="text-3xl text-gray-900">745 Resultados para ti:</p>
             <div className=" flex flex-col items-center ">
             <Card />      
             <div className="vertical-line mb-3"></div>  

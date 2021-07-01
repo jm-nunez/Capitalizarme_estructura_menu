@@ -1,9 +1,15 @@
 import React from "react"
-import Statement, { GetStartedButton } from "../../components/features/Statement"
+import Home1 from "../../components/features/Landing/home1"
+import Home2 from "../../components/features/Landing/home2"
+import Home3 from "../../components/features/Landing/home3"
+import Home4 from "../../components/features/Landing/home4"
+
 const Home = () => (
-    <div className="mt-10 flex flex-col items-center pb-24">
-        <Statement />
-        <GetStartedButton />
+    <div className="flex flex-col items-center">
+        <Home1 />
+        <Home2 />
+        <Home3 />
+        <Home4 />
     </div>
 )
 export default Home

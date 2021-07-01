@@ -78,3 +78,52 @@ button:focus {
 .blanco_P{
     color: #575757;
 }
+
+.tab {
+  overflow: hidden;
+  }
+  .tab-content {
+  max-height: 0;
+  transition: all 0.5s;
+  }
+  input:checked + .tab-label .test {
+      background-color: #000;
+  }
+  input:checked + .tab-label .test svg {
+      transform: rotate(180deg);
+      stroke: #fff;
+  }
+  input:checked + .tab-label::after {
+  transform: rotate(90deg);
+  }
+  input:checked ~ .tab-content {
+  max-height: 100vh;
+  }
+
+/*select home1*/
+.dropdown:focus-within .dropdown-menu {
+  opacity:1;
+  transform: translate(0) scale(1);
+  visibility: visible;
+}
+    
+
+/*slider*/
+.snap-x {
+  scroll-snap-type: x mandatory;
+  
+scroll-behavior: smooth;
+-webkit-overflow-scrolling: touch;
+}
+.snap-start {
+scroll-snap-align: start;
+}
+
+.swiper {
+  scroll-snap-type: x mandatory;
+    scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+}
+.swiper > img {
+  scroll-snap-align: start;
+}

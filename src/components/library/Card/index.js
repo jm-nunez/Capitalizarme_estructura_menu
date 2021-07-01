@@ -7,7 +7,7 @@ const Card = () => (
                 <div className="each mb-10 m-2 shadow-lg border-gray-800 bg-gray-100 relative">
                     <img className="w-full" src="https://fundacioncompartir.org/sites/default/files/styles/slick_600x320/public/estos-son-algunos-de-los-edificios-construidos-en-madera.jpg?itok=j40LH1qu" alt="" />
                     
-                <div className="badge absolute top-0 right-0 bg-indigo-500 m-1 text-gray-200 p-1 px-2 text-xs font-bold rounded">10:53</div>
+                <div className="badge absolute top-0 left-0 bg-green-500 m-1 text-white p-1 px-2 text-xs rounded-r-lg font-bold">10:53</div>
                 <div className="info-box text-xs flex p-1 font-semibold text-gray-500 bg-gray-300">
                     <span className="mr-1 p-1 px-2 font-bold">105 views</span>
                     <span className="mr-1 p-1 px-2 font-bold border-l border-gray-400">105 Likes</span>
