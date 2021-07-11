@@ -19,7 +19,8 @@
         "sass": "^1.26.10",
         "tailwindcss": "^1.6.2",
         "react-query": "^3.16.0",
-	    "@tdc-cl/x-form": "^3.11.1"
+	    "@tdc-cl/x-form": "^3.11.1",
+        "swiper": "*"
     },
     "scripts": {
         "start": "npm run watch:css && react-scripts start",
